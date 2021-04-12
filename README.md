@@ -1,5 +1,4 @@
 # TPO Assistant
-## A Smart Way to Manage the Proogress of Students
 
 # Used Technologies
 
